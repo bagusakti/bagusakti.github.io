@@ -99,7 +99,7 @@ h6 {
         -webkit-text-fill-color: transparent;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: #ffffff;
-        text-shadow: 2px 4px #183ad2;
+        /* text-shadow: 2px 4px #183ad2; */
 }
 #header h2 span {
   color: #fff;
